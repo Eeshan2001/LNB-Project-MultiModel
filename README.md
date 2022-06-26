@@ -10,34 +10,34 @@
 _**Following are the names of the various model files used:**_
 <br>
 <br>
--📕<b>Diabetes model =</b>  [model](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model.py) 
+-📕<b>Diabetes model =</b>  [model](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/model.py) 
 <br>
--📕<b>Cancer model = </b>  [model1](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model1.py)
+-📕<b>Cancer model = </b>  [model1](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/model1.py)
 <br>
--📕<b>Heart model = </b>  [model2](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model2.py)
+-📕<b>Heart model = </b>  [model2](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/model2.py)
 <br>
--📕<b>Iris model =</b> [model3](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model3.py) 
+-📕<b>Iris model =</b> [model3](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/model3.py) 
 <br>
--📕<b>Forest fire model =</b> [model4](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model4.py)
+-📕<b>Forest fire model =</b> [model4](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/model4.py)
 <br>
--📕<b>Glass model =</b> [model5](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/model5.py)
+-📕<b>Glass model =</b> [model5](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/model5.py)
 
 <hr>
 
 _**Details of various datasets used for model development[In the repository]:**_
 <br>
 <br>
--📚<b>Diabetes model :</b>  [diabetes.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/diabetes.csv) 
+-📚<b>Diabetes model :</b>  [diabetes.csv](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/data/diabetes.csv) 
 <br>
--📚<b>Cancer model : </b>  [cancer.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/cancer.csv)
+-📚<b>Cancer model : </b>  [cancer.csv](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/data/cancer.csv)
 <br>
--📚<b>Heart model : </b>  [heart.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/heart.csv)
+-📚<b>Heart model : </b>  [heart.csv](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/data/heart.csv)
 <br>
--📚<b>Iris model :</b> [iris.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/iris.csv) 
+-📚<b>Iris model :</b> [iris.csv](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/data/iris.csv) 
 <br>
--📚<b>Forest fire model :</b> [Forest_fire.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/Forest_fire.csv)
+-📚<b>Forest fire model :</b> [Forest_fire.csv](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/data/Forest_fire.csv)
 <br>
--📚<b>Glass model :</b> [glass.csv](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/glass.csv)
+-📚<b>Glass model :</b> [glass.csv](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/data/glass.csv)
 
 <hr>
 
@@ -45,6 +45,7 @@ _**Details of various datasets used for model development[In the repository]:**_
 <ul>
 <li><p><b>Python ( 3.7 version)</b></p></li>
 <li><p><b>Flask</b></p></li>
+<li><p><b>Heroku</b></p></li>
 <li><p><b>Bootstrap4</b></p></li>
 </ul>
 
@@ -67,6 +68,6 @@ _**Details of various datasets used for model development[In the repository]:**_
  
  •  Here is the demo of the app:
   
-  ![Demo GIF](https://github.com/philsaurabh/Predict-Something-ML-Prediction-App/blob/master/templates/static/img/demonstration.gif)
+  ![Demo GIF](https://github.com/Eeshan2001/LNB-Project-MultiModel/blob/main/templates/static/img/demonstration.gif)
   
   
