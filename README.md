@@ -62,7 +62,7 @@ _**Details of various datasets used for model development[In the repository]:**_
   <p> The whole project is deployed on Heroku Cloud.
   
  <p> Link to access the project live is : https://multi-model-prediction-web-app.herokuapp.com// </p>
- <p> Or you can go through launchpad github page : https://philsaurabh.github.io/Predict-Something-ML-Prediction-App/</p>
+ <p> Or you can go through launchpad github page : https://eeshan2001.github.io/LNB-Project-MultiModel/</p>
   <p> Thank you!</p><br/>
  •  And if you found it helpful, please do ⭐ the repository.
  
